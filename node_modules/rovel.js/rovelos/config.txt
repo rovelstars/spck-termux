@@ -1,0 +1,3 @@
+USERNAME=rovel
+PASSWORD=rovel
+WELMSG=Default Welcome Message
