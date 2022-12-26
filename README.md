@@ -1,7 +1,4 @@
-Note: Termux & Spck must be installed in your Android device.
-Links: 
-- [termux](https://play.google.com/store/apps/details?id=com.termux)
-- [spck editor](https://play.google.com/store/apps/details?id=io.spck)
-- [termux api](https://play.google.com/store/apps/details?id=com.termux.api)
-
-
+# ⚠️ Deprecation Notice
+Consider moving to a different editor instead which supports Termux Integration
+https://github.com/rovelstars/editermx
+It's still in development, contributors are welcome!
